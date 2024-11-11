@@ -84,5 +84,5 @@ Predicting credit card defaults is vital for financial risk management. This pro
 ## References
 
 - UCI Machine Learning Repository: [Default of Credit Card Clients Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
-- [Your Name], "Credit Card Default Prediction in R," [Link to PDF Report]
-- [Your Name], "Credit Card Default Prediction Presentation," [Link to Presentation Slides]
+- Swapnil Deshpande, "Credit Card Default Prediction in R," (Group_Project.pdf)
+- Swapnil Deshpande, "Credit Card Default Prediction Presentation," (Group 2_PPT.pptx)
